@@ -1,4 +1,4 @@
-# InfoDiffusion
+# InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation
 
 Official Codebase for "InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation"
 
